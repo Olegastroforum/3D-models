@@ -78,21 +78,21 @@ ____
 
 <img src='https://github.com/Olegastroforum/3D-models/blob/master/008/slicer.PNG' width="200"/>
 
-### [009. Широкое кользо (бандаж) внутренним диаметором 76мм для трубы телескопа ](https://github.com/Olegastroforum/3D-models/tree/master/007/)
+### [009. Широкое кользо (бандаж) внутренним диаметором 80мм для трубы телескопа ](https://github.com/Olegastroforum/3D-models/tree/master/007/)
 <img src='https://github.com/Olegastroforum/3D-models/blob/master/009/pic.jpg' width="200"/>  
 
 Подходит для крепления к ЛХ модель №008. 
 Диаметр оси для соединения полуколец 4мм, ось фиксируется с двух сторон самоконтрящимися гайками М4.
 
-Для крепления к ЛХ **в нижнее кольцо с внутренней стороны** необходимо вплавить вплавить специальные гайки М4х4 (на картинке ниже).   Крепление двумя винтами М4х30мм.  
+Для крепления к ЛХ **в нижнее кольцо с внутренней стороны** необходимо вплавить вплавить специальные гайки М4х4 (на картинке ниже).   
+
+<img src='https://github.com/Olegastroforum/3D-models/blob/master/006/insert_nut.jpg' width="60"/>
+
+Крепление двумя винтами М4х30мм.  
 
 Полукольца стягиваются между собой винтом М6. В нижнее полукольцо **снизу** вплавляется гайка М6х6. 
 
 В печатной головке винта отверстие под шестигранную гайку/головку винта.
-
-
-<img src='https://github.com/Olegastroforum/3D-models/blob/master/006/insert_nut.jpg' width="60"/>
-
 
 
 <img src='https://github.com/Olegastroforum/3D-models/blob/master/009/slicer.PNG' width="200"/>

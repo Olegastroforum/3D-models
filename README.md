@@ -1,7 +1,7 @@
 # 3D модели для скачивания.
 ___
 
-***Модели обновлены 17.09.21***
+***Модели обновлены 20.10.21***
 ___
 
 __Выложенные здесь модели можно свободно скачивать, распечатывать, редактировать,модифицировать, распространять в любой форме,  использовать в личных и коммерческих целях. Автор не дает никаких гарантий работоспособности изделий, изготовленных по выложенным файлам кем-либо кроме него.
@@ -78,7 +78,7 @@ ____
 
 <img src='https://github.com/Olegastroforum/3D-models/blob/master/008/slicer.PNG' width="200"/>
 
-### [009. Широкое кользо (бандаж) внутренним диаметором 80мм для трубы телескопа ](https://github.com/Olegastroforum/3D-models/tree/master/007/)
+### [009. Широкое кользо (бандаж) внутренним диаметором 80мм для трубы телескопа ](https://github.com/Olegastroforum/3D-models/tree/master/009/)
 <img src='https://github.com/Olegastroforum/3D-models/blob/master/009/pic.jpg' width="200"/>  
 
 Подходит для крепления к ЛХ модель №008. 
@@ -97,3 +97,16 @@ ____
 
 <img src='https://github.com/Olegastroforum/3D-models/blob/master/009/slicer.PNG' width="200"/>
 
+### [010. Кольца для Canon 200mm f/2.8 По мотивам Астрокракена ](https://github.com/Olegastroforum/3D-models/tree/master/010/)
+<img src='https://github.com/Olegastroforum/3D-models/blob/master/010/pic.jpg' width="200"/>  
+
+Консструкция собирается на винтах М4 с цилиндрической и конической головкой, гайки шестигранные.
+В креплении искателя вплавляемые insert nut, тоже М4.
+ЛХ с пазами под металлические накладки.
+
+### [011. Кольца для Samyang 135mm f/2 По мотивам Астрокракена ](https://github.com/Olegastroforum/3D-models/tree/master/011/)
+<img src='https://github.com/Olegastroforum/3D-models/blob/master/011/pic.jpg' width="200"/>  
+
+Консструкция собирается на винтах М4 с цилиндрической и конической головкой, гайки шестигранные.
+В креплении искателя вплавляемые insert nut, тоже М4.
+ЛХ с пазами под металлические накладки.

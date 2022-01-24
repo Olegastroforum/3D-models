@@ -133,3 +133,12 @@ ____
 Один из самых полезных переходников.
 
 <img src='https://github.com/Olegastroforum/3D-models/blob/master/013/slicer.JPG' width="200"/>
+
+### [014. Переходник для использования микроскопных (23мм) окуляров в телескопе (посадка 1.25") ](https://github.com/Olegastroforum/3D-models/tree/master/014/)
+<img src='https://github.com/Olegastroforum/3D-models/blob/master/014/pic.jpg' width="200"/>  
+
+Окуляр фиксируется установочным винтом (set screw) М2.5, винт вкручивается в вплавляемую гайку. Это винт без головки с обычним или шестигранным шлицом.
+
+Расстояние между посадочной плоскостью переходника и посадочной плоскостью окуляра 5,6 мм.
+
+<img src='https://github.com/Olegastroforum/3D-models/blob/master/014/slicer.JPG' width="200"/>
